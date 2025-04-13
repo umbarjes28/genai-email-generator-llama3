@@ -49,7 +49,7 @@ A fully integrated GenAI application that generates professional cold emails fro
     streamlit run app.py
 
 ## Project Structure
-    ```bash
+```bash
     📁 genai-email-llama3
     ├── 📁 app
         ├── app.py
